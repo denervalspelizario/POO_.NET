@@ -1,0 +1,15 @@
+D:\repositorio\POO_.NET\UsoDoThis\UsoDoThis\bin\Debug\net8.0\UsoDoThis.exe
+D:\repositorio\POO_.NET\UsoDoThis\UsoDoThis\bin\Debug\net8.0\UsoDoThis.deps.json
+D:\repositorio\POO_.NET\UsoDoThis\UsoDoThis\bin\Debug\net8.0\UsoDoThis.runtimeconfig.json
+D:\repositorio\POO_.NET\UsoDoThis\UsoDoThis\bin\Debug\net8.0\UsoDoThis.dll
+D:\repositorio\POO_.NET\UsoDoThis\UsoDoThis\bin\Debug\net8.0\UsoDoThis.pdb
+D:\repositorio\POO_.NET\UsoDoThis\UsoDoThis\obj\Debug\net8.0\UsoDoThis.GeneratedMSBuildEditorConfig.editorconfig
+D:\repositorio\POO_.NET\UsoDoThis\UsoDoThis\obj\Debug\net8.0\UsoDoThis.AssemblyInfoInputs.cache
+D:\repositorio\POO_.NET\UsoDoThis\UsoDoThis\obj\Debug\net8.0\UsoDoThis.AssemblyInfo.cs
+D:\repositorio\POO_.NET\UsoDoThis\UsoDoThis\obj\Debug\net8.0\UsoDoThis.csproj.CoreCompileInputs.cache
+D:\repositorio\POO_.NET\UsoDoThis\UsoDoThis\obj\Debug\net8.0\UsoDoThis.sourcelink.json
+D:\repositorio\POO_.NET\UsoDoThis\UsoDoThis\obj\Debug\net8.0\UsoDoThis.dll
+D:\repositorio\POO_.NET\UsoDoThis\UsoDoThis\obj\Debug\net8.0\refint\UsoDoThis.dll
+D:\repositorio\POO_.NET\UsoDoThis\UsoDoThis\obj\Debug\net8.0\UsoDoThis.pdb
+D:\repositorio\POO_.NET\UsoDoThis\UsoDoThis\obj\Debug\net8.0\UsoDoThis.genruntimeconfig.cache
+D:\repositorio\POO_.NET\UsoDoThis\UsoDoThis\obj\Debug\net8.0\ref\UsoDoThis.dll

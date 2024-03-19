@@ -1,0 +1,15 @@
+D:\repositorio\POO_.NET\PassandoParametrosEntreClasses\PassandoParametrosEntreClasses\bin\Debug\net8.0\PassandoParametrosEntreClasses.exe
+D:\repositorio\POO_.NET\PassandoParametrosEntreClasses\PassandoParametrosEntreClasses\bin\Debug\net8.0\PassandoParametrosEntreClasses.deps.json
+D:\repositorio\POO_.NET\PassandoParametrosEntreClasses\PassandoParametrosEntreClasses\bin\Debug\net8.0\PassandoParametrosEntreClasses.runtimeconfig.json
+D:\repositorio\POO_.NET\PassandoParametrosEntreClasses\PassandoParametrosEntreClasses\bin\Debug\net8.0\PassandoParametrosEntreClasses.dll
+D:\repositorio\POO_.NET\PassandoParametrosEntreClasses\PassandoParametrosEntreClasses\bin\Debug\net8.0\PassandoParametrosEntreClasses.pdb
+D:\repositorio\POO_.NET\PassandoParametrosEntreClasses\PassandoParametrosEntreClasses\obj\Debug\net8.0\PassandoParametrosEntreClasses.GeneratedMSBuildEditorConfig.editorconfig
+D:\repositorio\POO_.NET\PassandoParametrosEntreClasses\PassandoParametrosEntreClasses\obj\Debug\net8.0\PassandoParametrosEntreClasses.AssemblyInfoInputs.cache
+D:\repositorio\POO_.NET\PassandoParametrosEntreClasses\PassandoParametrosEntreClasses\obj\Debug\net8.0\PassandoParametrosEntreClasses.AssemblyInfo.cs
+D:\repositorio\POO_.NET\PassandoParametrosEntreClasses\PassandoParametrosEntreClasses\obj\Debug\net8.0\PassandoParametrosEntreClasses.csproj.CoreCompileInputs.cache
+D:\repositorio\POO_.NET\PassandoParametrosEntreClasses\PassandoParametrosEntreClasses\obj\Debug\net8.0\PassandoParametrosEntreClasses.sourcelink.json
+D:\repositorio\POO_.NET\PassandoParametrosEntreClasses\PassandoParametrosEntreClasses\obj\Debug\net8.0\PassandoParametrosEntreClasses.dll
+D:\repositorio\POO_.NET\PassandoParametrosEntreClasses\PassandoParametrosEntreClasses\obj\Debug\net8.0\refint\PassandoParametrosEntreClasses.dll
+D:\repositorio\POO_.NET\PassandoParametrosEntreClasses\PassandoParametrosEntreClasses\obj\Debug\net8.0\PassandoParametrosEntreClasses.pdb
+D:\repositorio\POO_.NET\PassandoParametrosEntreClasses\PassandoParametrosEntreClasses\obj\Debug\net8.0\PassandoParametrosEntreClasses.genruntimeconfig.cache
+D:\repositorio\POO_.NET\PassandoParametrosEntreClasses\PassandoParametrosEntreClasses\obj\Debug\net8.0\ref\PassandoParametrosEntreClasses.dll

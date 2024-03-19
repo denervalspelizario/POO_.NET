@@ -1,0 +1,15 @@
+D:\repositorio\POO_.NET\MetodosComParametro\MetodosComParametro\bin\Debug\net8.0\MetodosComParametro.exe
+D:\repositorio\POO_.NET\MetodosComParametro\MetodosComParametro\bin\Debug\net8.0\MetodosComParametro.deps.json
+D:\repositorio\POO_.NET\MetodosComParametro\MetodosComParametro\bin\Debug\net8.0\MetodosComParametro.runtimeconfig.json
+D:\repositorio\POO_.NET\MetodosComParametro\MetodosComParametro\bin\Debug\net8.0\MetodosComParametro.dll
+D:\repositorio\POO_.NET\MetodosComParametro\MetodosComParametro\bin\Debug\net8.0\MetodosComParametro.pdb
+D:\repositorio\POO_.NET\MetodosComParametro\MetodosComParametro\obj\Debug\net8.0\MetodosComParametro.GeneratedMSBuildEditorConfig.editorconfig
+D:\repositorio\POO_.NET\MetodosComParametro\MetodosComParametro\obj\Debug\net8.0\MetodosComParametro.AssemblyInfoInputs.cache
+D:\repositorio\POO_.NET\MetodosComParametro\MetodosComParametro\obj\Debug\net8.0\MetodosComParametro.AssemblyInfo.cs
+D:\repositorio\POO_.NET\MetodosComParametro\MetodosComParametro\obj\Debug\net8.0\MetodosComParametro.csproj.CoreCompileInputs.cache
+D:\repositorio\POO_.NET\MetodosComParametro\MetodosComParametro\obj\Debug\net8.0\MetodosComParametro.sourcelink.json
+D:\repositorio\POO_.NET\MetodosComParametro\MetodosComParametro\obj\Debug\net8.0\MetodosComParametro.dll
+D:\repositorio\POO_.NET\MetodosComParametro\MetodosComParametro\obj\Debug\net8.0\refint\MetodosComParametro.dll
+D:\repositorio\POO_.NET\MetodosComParametro\MetodosComParametro\obj\Debug\net8.0\MetodosComParametro.pdb
+D:\repositorio\POO_.NET\MetodosComParametro\MetodosComParametro\obj\Debug\net8.0\MetodosComParametro.genruntimeconfig.cache
+D:\repositorio\POO_.NET\MetodosComParametro\MetodosComParametro\obj\Debug\net8.0\ref\MetodosComParametro.dll

@@ -1,0 +1,15 @@
+D:\repositorio\POO_.NET\Classe\Classe\bin\Debug\net8.0\Classe.exe
+D:\repositorio\POO_.NET\Classe\Classe\bin\Debug\net8.0\Classe.deps.json
+D:\repositorio\POO_.NET\Classe\Classe\bin\Debug\net8.0\Classe.runtimeconfig.json
+D:\repositorio\POO_.NET\Classe\Classe\bin\Debug\net8.0\Classe.dll
+D:\repositorio\POO_.NET\Classe\Classe\bin\Debug\net8.0\Classe.pdb
+D:\repositorio\POO_.NET\Classe\Classe\obj\Debug\net8.0\Classe.GeneratedMSBuildEditorConfig.editorconfig
+D:\repositorio\POO_.NET\Classe\Classe\obj\Debug\net8.0\Classe.AssemblyInfoInputs.cache
+D:\repositorio\POO_.NET\Classe\Classe\obj\Debug\net8.0\Classe.AssemblyInfo.cs
+D:\repositorio\POO_.NET\Classe\Classe\obj\Debug\net8.0\Classe.csproj.CoreCompileInputs.cache
+D:\repositorio\POO_.NET\Classe\Classe\obj\Debug\net8.0\Classe.sourcelink.json
+D:\repositorio\POO_.NET\Classe\Classe\obj\Debug\net8.0\Classe.dll
+D:\repositorio\POO_.NET\Classe\Classe\obj\Debug\net8.0\refint\Classe.dll
+D:\repositorio\POO_.NET\Classe\Classe\obj\Debug\net8.0\Classe.pdb
+D:\repositorio\POO_.NET\Classe\Classe\obj\Debug\net8.0\Classe.genruntimeconfig.cache
+D:\repositorio\POO_.NET\Classe\Classe\obj\Debug\net8.0\ref\Classe.dll

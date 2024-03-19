@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\repositorio\\POO_.NET\\CriandoMaisDeUmConstrutor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6F560C8C-FE49-4C89-80E8-58AAC77930D2}|CriandoMaisDeUmConstrutor\\CriandoMaisDeUmConstrutor.csproj|d:\\repositorio\\poo_.net\\criandomaisdeumconstrutor\\criandomaisdeumconstrutor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F560C8C-FE49-4C89-80E8-58AAC77930D2}|CriandoMaisDeUmConstrutor\\CriandoMaisDeUmConstrutor.csproj|solutionrelative:criandomaisdeumconstrutor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\repositorio\\POO_.NET\\CriandoMaisDeUmConstrutor\\CriandoMaisDeUmConstrutor\\Program.cs",
+              "RelativeDocumentMoniker": "CriandoMaisDeUmConstrutor\\Program.cs",
+              "ToolTip": "D:\\repositorio\\POO_.NET\\CriandoMaisDeUmConstrutor\\CriandoMaisDeUmConstrutor\\Program.cs",
+              "RelativeToolTip": "CriandoMaisDeUmConstrutor\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T14:51:54.211Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
