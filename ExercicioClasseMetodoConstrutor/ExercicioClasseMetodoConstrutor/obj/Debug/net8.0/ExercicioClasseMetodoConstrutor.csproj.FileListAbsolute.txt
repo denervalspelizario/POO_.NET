@@ -1,0 +1,15 @@
+D:\repositorio\POO_.NET\ExercicioClasseMetodoConstrutor\ExercicioClasseMetodoConstrutor\bin\Debug\net8.0\ExercicioClasseMetodoConstrutor.exe
+D:\repositorio\POO_.NET\ExercicioClasseMetodoConstrutor\ExercicioClasseMetodoConstrutor\bin\Debug\net8.0\ExercicioClasseMetodoConstrutor.deps.json
+D:\repositorio\POO_.NET\ExercicioClasseMetodoConstrutor\ExercicioClasseMetodoConstrutor\bin\Debug\net8.0\ExercicioClasseMetodoConstrutor.runtimeconfig.json
+D:\repositorio\POO_.NET\ExercicioClasseMetodoConstrutor\ExercicioClasseMetodoConstrutor\bin\Debug\net8.0\ExercicioClasseMetodoConstrutor.dll
+D:\repositorio\POO_.NET\ExercicioClasseMetodoConstrutor\ExercicioClasseMetodoConstrutor\bin\Debug\net8.0\ExercicioClasseMetodoConstrutor.pdb
+D:\repositorio\POO_.NET\ExercicioClasseMetodoConstrutor\ExercicioClasseMetodoConstrutor\obj\Debug\net8.0\ExercicioClasseMetodoConstrutor.GeneratedMSBuildEditorConfig.editorconfig
+D:\repositorio\POO_.NET\ExercicioClasseMetodoConstrutor\ExercicioClasseMetodoConstrutor\obj\Debug\net8.0\ExercicioClasseMetodoConstrutor.AssemblyInfoInputs.cache
+D:\repositorio\POO_.NET\ExercicioClasseMetodoConstrutor\ExercicioClasseMetodoConstrutor\obj\Debug\net8.0\ExercicioClasseMetodoConstrutor.AssemblyInfo.cs
+D:\repositorio\POO_.NET\ExercicioClasseMetodoConstrutor\ExercicioClasseMetodoConstrutor\obj\Debug\net8.0\ExercicioClasseMetodoConstrutor.csproj.CoreCompileInputs.cache
+D:\repositorio\POO_.NET\ExercicioClasseMetodoConstrutor\ExercicioClasseMetodoConstrutor\obj\Debug\net8.0\ExercicioClasseMetodoConstrutor.sourcelink.json
+D:\repositorio\POO_.NET\ExercicioClasseMetodoConstrutor\ExercicioClasseMetodoConstrutor\obj\Debug\net8.0\ExercicioClasseMetodoConstrutor.dll
+D:\repositorio\POO_.NET\ExercicioClasseMetodoConstrutor\ExercicioClasseMetodoConstrutor\obj\Debug\net8.0\refint\ExercicioClasseMetodoConstrutor.dll
+D:\repositorio\POO_.NET\ExercicioClasseMetodoConstrutor\ExercicioClasseMetodoConstrutor\obj\Debug\net8.0\ExercicioClasseMetodoConstrutor.pdb
+D:\repositorio\POO_.NET\ExercicioClasseMetodoConstrutor\ExercicioClasseMetodoConstrutor\obj\Debug\net8.0\ExercicioClasseMetodoConstrutor.genruntimeconfig.cache
+D:\repositorio\POO_.NET\ExercicioClasseMetodoConstrutor\ExercicioClasseMetodoConstrutor\obj\Debug\net8.0\ref\ExercicioClasseMetodoConstrutor.dll
