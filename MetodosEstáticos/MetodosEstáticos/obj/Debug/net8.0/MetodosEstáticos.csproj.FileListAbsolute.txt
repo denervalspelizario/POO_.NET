@@ -1,0 +1,15 @@
+D:\repositorio\POO_.NET\MetodosEstáticos\MetodosEstáticos\bin\Debug\net8.0\MetodosEstáticos.exe
+D:\repositorio\POO_.NET\MetodosEstáticos\MetodosEstáticos\bin\Debug\net8.0\MetodosEstáticos.deps.json
+D:\repositorio\POO_.NET\MetodosEstáticos\MetodosEstáticos\bin\Debug\net8.0\MetodosEstáticos.runtimeconfig.json
+D:\repositorio\POO_.NET\MetodosEstáticos\MetodosEstáticos\bin\Debug\net8.0\MetodosEstáticos.dll
+D:\repositorio\POO_.NET\MetodosEstáticos\MetodosEstáticos\bin\Debug\net8.0\MetodosEstáticos.pdb
+D:\repositorio\POO_.NET\MetodosEstáticos\MetodosEstáticos\obj\Debug\net8.0\MetodosEstáticos.GeneratedMSBuildEditorConfig.editorconfig
+D:\repositorio\POO_.NET\MetodosEstáticos\MetodosEstáticos\obj\Debug\net8.0\MetodosEstáticos.AssemblyInfoInputs.cache
+D:\repositorio\POO_.NET\MetodosEstáticos\MetodosEstáticos\obj\Debug\net8.0\MetodosEstáticos.AssemblyInfo.cs
+D:\repositorio\POO_.NET\MetodosEstáticos\MetodosEstáticos\obj\Debug\net8.0\MetodosEstáticos.csproj.CoreCompileInputs.cache
+D:\repositorio\POO_.NET\MetodosEstáticos\MetodosEstáticos\obj\Debug\net8.0\MetodosEstáticos.sourcelink.json
+D:\repositorio\POO_.NET\MetodosEstáticos\MetodosEstáticos\obj\Debug\net8.0\MetodosEstáticos.dll
+D:\repositorio\POO_.NET\MetodosEstáticos\MetodosEstáticos\obj\Debug\net8.0\refint\MetodosEstáticos.dll
+D:\repositorio\POO_.NET\MetodosEstáticos\MetodosEstáticos\obj\Debug\net8.0\MetodosEstáticos.pdb
+D:\repositorio\POO_.NET\MetodosEstáticos\MetodosEstáticos\obj\Debug\net8.0\MetodosEstáticos.genruntimeconfig.cache
+D:\repositorio\POO_.NET\MetodosEstáticos\MetodosEstáticos\obj\Debug\net8.0\ref\MetodosEstáticos.dll

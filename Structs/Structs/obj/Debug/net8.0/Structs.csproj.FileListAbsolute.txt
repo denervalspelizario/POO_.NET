@@ -1,0 +1,15 @@
+D:\repositorio\POO_.NET\Structs\Structs\bin\Debug\net8.0\Structs.exe
+D:\repositorio\POO_.NET\Structs\Structs\bin\Debug\net8.0\Structs.deps.json
+D:\repositorio\POO_.NET\Structs\Structs\bin\Debug\net8.0\Structs.runtimeconfig.json
+D:\repositorio\POO_.NET\Structs\Structs\bin\Debug\net8.0\Structs.dll
+D:\repositorio\POO_.NET\Structs\Structs\bin\Debug\net8.0\Structs.pdb
+D:\repositorio\POO_.NET\Structs\Structs\obj\Debug\net8.0\Structs.GeneratedMSBuildEditorConfig.editorconfig
+D:\repositorio\POO_.NET\Structs\Structs\obj\Debug\net8.0\Structs.AssemblyInfoInputs.cache
+D:\repositorio\POO_.NET\Structs\Structs\obj\Debug\net8.0\Structs.AssemblyInfo.cs
+D:\repositorio\POO_.NET\Structs\Structs\obj\Debug\net8.0\Structs.csproj.CoreCompileInputs.cache
+D:\repositorio\POO_.NET\Structs\Structs\obj\Debug\net8.0\Structs.sourcelink.json
+D:\repositorio\POO_.NET\Structs\Structs\obj\Debug\net8.0\Structs.dll
+D:\repositorio\POO_.NET\Structs\Structs\obj\Debug\net8.0\refint\Structs.dll
+D:\repositorio\POO_.NET\Structs\Structs\obj\Debug\net8.0\Structs.pdb
+D:\repositorio\POO_.NET\Structs\Structs\obj\Debug\net8.0\Structs.genruntimeconfig.cache
+D:\repositorio\POO_.NET\Structs\Structs\obj\Debug\net8.0\ref\Structs.dll

@@ -1,0 +1,15 @@
+D:\repositorio\POO_.NET\ArgumentosPorReferencia_OUT\ArgumentosPorReferencia_OUT\bin\Debug\net8.0\ArgumentosPorReferencia_OUT.exe
+D:\repositorio\POO_.NET\ArgumentosPorReferencia_OUT\ArgumentosPorReferencia_OUT\bin\Debug\net8.0\ArgumentosPorReferencia_OUT.deps.json
+D:\repositorio\POO_.NET\ArgumentosPorReferencia_OUT\ArgumentosPorReferencia_OUT\bin\Debug\net8.0\ArgumentosPorReferencia_OUT.runtimeconfig.json
+D:\repositorio\POO_.NET\ArgumentosPorReferencia_OUT\ArgumentosPorReferencia_OUT\bin\Debug\net8.0\ArgumentosPorReferencia_OUT.dll
+D:\repositorio\POO_.NET\ArgumentosPorReferencia_OUT\ArgumentosPorReferencia_OUT\bin\Debug\net8.0\ArgumentosPorReferencia_OUT.pdb
+D:\repositorio\POO_.NET\ArgumentosPorReferencia_OUT\ArgumentosPorReferencia_OUT\obj\Debug\net8.0\ArgumentosPorReferencia_OUT.GeneratedMSBuildEditorConfig.editorconfig
+D:\repositorio\POO_.NET\ArgumentosPorReferencia_OUT\ArgumentosPorReferencia_OUT\obj\Debug\net8.0\ArgumentosPorReferencia_OUT.AssemblyInfoInputs.cache
+D:\repositorio\POO_.NET\ArgumentosPorReferencia_OUT\ArgumentosPorReferencia_OUT\obj\Debug\net8.0\ArgumentosPorReferencia_OUT.AssemblyInfo.cs
+D:\repositorio\POO_.NET\ArgumentosPorReferencia_OUT\ArgumentosPorReferencia_OUT\obj\Debug\net8.0\ArgumentosPorReferencia_OUT.csproj.CoreCompileInputs.cache
+D:\repositorio\POO_.NET\ArgumentosPorReferencia_OUT\ArgumentosPorReferencia_OUT\obj\Debug\net8.0\ArgumentosPorReferencia_OUT.sourcelink.json
+D:\repositorio\POO_.NET\ArgumentosPorReferencia_OUT\ArgumentosPorReferencia_OUT\obj\Debug\net8.0\ArgumentosPorReferencia_OUT.dll
+D:\repositorio\POO_.NET\ArgumentosPorReferencia_OUT\ArgumentosPorReferencia_OUT\obj\Debug\net8.0\refint\ArgumentosPorReferencia_OUT.dll
+D:\repositorio\POO_.NET\ArgumentosPorReferencia_OUT\ArgumentosPorReferencia_OUT\obj\Debug\net8.0\ArgumentosPorReferencia_OUT.pdb
+D:\repositorio\POO_.NET\ArgumentosPorReferencia_OUT\ArgumentosPorReferencia_OUT\obj\Debug\net8.0\ArgumentosPorReferencia_OUT.genruntimeconfig.cache
+D:\repositorio\POO_.NET\ArgumentosPorReferencia_OUT\ArgumentosPorReferencia_OUT\obj\Debug\net8.0\ref\ArgumentosPorReferencia_OUT.dll
