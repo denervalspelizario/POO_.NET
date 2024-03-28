@@ -1,0 +1,15 @@
+D:\repositorio\POO_.NET\ExercicioList\ExercicioList\bin\Debug\net7.0\ExercicioList.exe
+D:\repositorio\POO_.NET\ExercicioList\ExercicioList\bin\Debug\net7.0\ExercicioList.deps.json
+D:\repositorio\POO_.NET\ExercicioList\ExercicioList\bin\Debug\net7.0\ExercicioList.runtimeconfig.json
+D:\repositorio\POO_.NET\ExercicioList\ExercicioList\bin\Debug\net7.0\ExercicioList.dll
+D:\repositorio\POO_.NET\ExercicioList\ExercicioList\bin\Debug\net7.0\ExercicioList.pdb
+D:\repositorio\POO_.NET\ExercicioList\ExercicioList\obj\Debug\net7.0\ExercicioList.GeneratedMSBuildEditorConfig.editorconfig
+D:\repositorio\POO_.NET\ExercicioList\ExercicioList\obj\Debug\net7.0\ExercicioList.AssemblyInfoInputs.cache
+D:\repositorio\POO_.NET\ExercicioList\ExercicioList\obj\Debug\net7.0\ExercicioList.AssemblyInfo.cs
+D:\repositorio\POO_.NET\ExercicioList\ExercicioList\obj\Debug\net7.0\ExercicioList.csproj.CoreCompileInputs.cache
+D:\repositorio\POO_.NET\ExercicioList\ExercicioList\obj\Debug\net7.0\ExercicioList.sourcelink.json
+D:\repositorio\POO_.NET\ExercicioList\ExercicioList\obj\Debug\net7.0\ExercicioList.dll
+D:\repositorio\POO_.NET\ExercicioList\ExercicioList\obj\Debug\net7.0\refint\ExercicioList.dll
+D:\repositorio\POO_.NET\ExercicioList\ExercicioList\obj\Debug\net7.0\ExercicioList.pdb
+D:\repositorio\POO_.NET\ExercicioList\ExercicioList\obj\Debug\net7.0\ExercicioList.genruntimeconfig.cache
+D:\repositorio\POO_.NET\ExercicioList\ExercicioList\obj\Debug\net7.0\ref\ExercicioList.dll
