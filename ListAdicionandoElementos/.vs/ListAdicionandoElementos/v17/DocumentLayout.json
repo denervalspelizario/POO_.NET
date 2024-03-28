@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\repositorio\\POO_.NET\\ListAdicionandoElementos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7F5FA013-EC14-46C3-B4E0-FDD28461CD72}|ListAdicionandoElementos\\ListAdicionandoElementos.csproj|d:\\repositorio\\poo_.net\\listadicionandoelementos\\listadicionandoelementos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F5FA013-EC14-46C3-B4E0-FDD28461CD72}|ListAdicionandoElementos\\ListAdicionandoElementos.csproj|solutionrelative:listadicionandoelementos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\repositorio\\POO_.NET\\ListAdicionandoElementos\\ListAdicionandoElementos\\Program.cs",
+              "RelativeDocumentMoniker": "ListAdicionandoElementos\\Program.cs",
+              "ToolTip": "D:\\repositorio\\POO_.NET\\ListAdicionandoElementos\\ListAdicionandoElementos\\Program.cs",
+              "RelativeToolTip": "ListAdicionandoElementos\\Program.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAADsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T12:41:46.417Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

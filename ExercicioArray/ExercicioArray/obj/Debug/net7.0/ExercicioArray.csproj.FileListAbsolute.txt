@@ -1,0 +1,15 @@
+D:\repositorio\POO_.NET\ExercicioArray\ExercicioArray\bin\Debug\net7.0\ExercicioArray.exe
+D:\repositorio\POO_.NET\ExercicioArray\ExercicioArray\bin\Debug\net7.0\ExercicioArray.deps.json
+D:\repositorio\POO_.NET\ExercicioArray\ExercicioArray\bin\Debug\net7.0\ExercicioArray.runtimeconfig.json
+D:\repositorio\POO_.NET\ExercicioArray\ExercicioArray\bin\Debug\net7.0\ExercicioArray.dll
+D:\repositorio\POO_.NET\ExercicioArray\ExercicioArray\bin\Debug\net7.0\ExercicioArray.pdb
+D:\repositorio\POO_.NET\ExercicioArray\ExercicioArray\obj\Debug\net7.0\ExercicioArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\repositorio\POO_.NET\ExercicioArray\ExercicioArray\obj\Debug\net7.0\ExercicioArray.AssemblyInfoInputs.cache
+D:\repositorio\POO_.NET\ExercicioArray\ExercicioArray\obj\Debug\net7.0\ExercicioArray.AssemblyInfo.cs
+D:\repositorio\POO_.NET\ExercicioArray\ExercicioArray\obj\Debug\net7.0\ExercicioArray.csproj.CoreCompileInputs.cache
+D:\repositorio\POO_.NET\ExercicioArray\ExercicioArray\obj\Debug\net7.0\ExercicioArray.sourcelink.json
+D:\repositorio\POO_.NET\ExercicioArray\ExercicioArray\obj\Debug\net7.0\ExercicioArray.dll
+D:\repositorio\POO_.NET\ExercicioArray\ExercicioArray\obj\Debug\net7.0\refint\ExercicioArray.dll
+D:\repositorio\POO_.NET\ExercicioArray\ExercicioArray\obj\Debug\net7.0\ExercicioArray.pdb
+D:\repositorio\POO_.NET\ExercicioArray\ExercicioArray\obj\Debug\net7.0\ExercicioArray.genruntimeconfig.cache
+D:\repositorio\POO_.NET\ExercicioArray\ExercicioArray\obj\Debug\net7.0\ref\ExercicioArray.dll

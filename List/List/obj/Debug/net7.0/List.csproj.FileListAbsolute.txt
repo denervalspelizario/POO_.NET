@@ -1,0 +1,15 @@
+D:\repositorio\POO_.NET\List\List\bin\Debug\net7.0\List.exe
+D:\repositorio\POO_.NET\List\List\bin\Debug\net7.0\List.deps.json
+D:\repositorio\POO_.NET\List\List\bin\Debug\net7.0\List.runtimeconfig.json
+D:\repositorio\POO_.NET\List\List\bin\Debug\net7.0\List.dll
+D:\repositorio\POO_.NET\List\List\bin\Debug\net7.0\List.pdb
+D:\repositorio\POO_.NET\List\List\obj\Debug\net7.0\List.GeneratedMSBuildEditorConfig.editorconfig
+D:\repositorio\POO_.NET\List\List\obj\Debug\net7.0\List.AssemblyInfoInputs.cache
+D:\repositorio\POO_.NET\List\List\obj\Debug\net7.0\List.AssemblyInfo.cs
+D:\repositorio\POO_.NET\List\List\obj\Debug\net7.0\List.csproj.CoreCompileInputs.cache
+D:\repositorio\POO_.NET\List\List\obj\Debug\net7.0\List.sourcelink.json
+D:\repositorio\POO_.NET\List\List\obj\Debug\net7.0\List.dll
+D:\repositorio\POO_.NET\List\List\obj\Debug\net7.0\refint\List.dll
+D:\repositorio\POO_.NET\List\List\obj\Debug\net7.0\List.pdb
+D:\repositorio\POO_.NET\List\List\obj\Debug\net7.0\List.genruntimeconfig.cache
+D:\repositorio\POO_.NET\List\List\obj\Debug\net7.0\ref\List.dll

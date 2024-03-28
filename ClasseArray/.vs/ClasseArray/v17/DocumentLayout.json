@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\repositorio\\POO_.NET\\ClasseArray\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CEB59DDC-9935-48FF-8F4D-81812DDB531A}|ClasseArray\\ClasseArray.csproj|d:\\repositorio\\poo_.net\\classearray\\classearray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEB59DDC-9935-48FF-8F4D-81812DDB531A}|ClasseArray\\ClasseArray.csproj|solutionrelative:classearray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\repositorio\\POO_.NET\\ClasseArray\\ClasseArray\\Program.cs",
+              "RelativeDocumentMoniker": "ClasseArray\\Program.cs",
+              "ToolTip": "D:\\repositorio\\POO_.NET\\ClasseArray\\ClasseArray\\Program.cs",
+              "RelativeToolTip": "ClasseArray\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T12:55:00.455Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

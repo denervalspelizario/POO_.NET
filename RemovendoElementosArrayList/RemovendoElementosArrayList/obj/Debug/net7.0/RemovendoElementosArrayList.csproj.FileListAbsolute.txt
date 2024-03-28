@@ -1,0 +1,15 @@
+D:\repositorio\POO_.NET\RemovendoElementosArrayList\RemovendoElementosArrayList\obj\Debug\net7.0\RemovendoElementosArrayList.GeneratedMSBuildEditorConfig.editorconfig
+D:\repositorio\POO_.NET\RemovendoElementosArrayList\RemovendoElementosArrayList\obj\Debug\net7.0\RemovendoElementosArrayList.AssemblyInfoInputs.cache
+D:\repositorio\POO_.NET\RemovendoElementosArrayList\RemovendoElementosArrayList\obj\Debug\net7.0\RemovendoElementosArrayList.AssemblyInfo.cs
+D:\repositorio\POO_.NET\RemovendoElementosArrayList\RemovendoElementosArrayList\obj\Debug\net7.0\RemovendoElementosArrayList.csproj.CoreCompileInputs.cache
+D:\repositorio\POO_.NET\RemovendoElementosArrayList\RemovendoElementosArrayList\obj\Debug\net7.0\RemovendoElementosArrayList.sourcelink.json
+D:\repositorio\POO_.NET\RemovendoElementosArrayList\RemovendoElementosArrayList\bin\Debug\net7.0\RemovendoElementosArrayList.exe
+D:\repositorio\POO_.NET\RemovendoElementosArrayList\RemovendoElementosArrayList\bin\Debug\net7.0\RemovendoElementosArrayList.deps.json
+D:\repositorio\POO_.NET\RemovendoElementosArrayList\RemovendoElementosArrayList\bin\Debug\net7.0\RemovendoElementosArrayList.runtimeconfig.json
+D:\repositorio\POO_.NET\RemovendoElementosArrayList\RemovendoElementosArrayList\bin\Debug\net7.0\RemovendoElementosArrayList.dll
+D:\repositorio\POO_.NET\RemovendoElementosArrayList\RemovendoElementosArrayList\bin\Debug\net7.0\RemovendoElementosArrayList.pdb
+D:\repositorio\POO_.NET\RemovendoElementosArrayList\RemovendoElementosArrayList\obj\Debug\net7.0\RemovendoElementosArrayList.dll
+D:\repositorio\POO_.NET\RemovendoElementosArrayList\RemovendoElementosArrayList\obj\Debug\net7.0\refint\RemovendoElementosArrayList.dll
+D:\repositorio\POO_.NET\RemovendoElementosArrayList\RemovendoElementosArrayList\obj\Debug\net7.0\RemovendoElementosArrayList.pdb
+D:\repositorio\POO_.NET\RemovendoElementosArrayList\RemovendoElementosArrayList\obj\Debug\net7.0\RemovendoElementosArrayList.genruntimeconfig.cache
+D:\repositorio\POO_.NET\RemovendoElementosArrayList\RemovendoElementosArrayList\obj\Debug\net7.0\ref\RemovendoElementosArrayList.dll

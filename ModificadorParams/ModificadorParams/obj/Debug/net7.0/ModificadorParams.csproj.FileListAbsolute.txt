@@ -1,0 +1,15 @@
+D:\repositorio\POO_.NET\ModificadorParams\ModificadorParams\bin\Debug\net7.0\ModificadorParams.exe
+D:\repositorio\POO_.NET\ModificadorParams\ModificadorParams\bin\Debug\net7.0\ModificadorParams.deps.json
+D:\repositorio\POO_.NET\ModificadorParams\ModificadorParams\bin\Debug\net7.0\ModificadorParams.runtimeconfig.json
+D:\repositorio\POO_.NET\ModificadorParams\ModificadorParams\bin\Debug\net7.0\ModificadorParams.dll
+D:\repositorio\POO_.NET\ModificadorParams\ModificadorParams\bin\Debug\net7.0\ModificadorParams.pdb
+D:\repositorio\POO_.NET\ModificadorParams\ModificadorParams\obj\Debug\net7.0\ModificadorParams.GeneratedMSBuildEditorConfig.editorconfig
+D:\repositorio\POO_.NET\ModificadorParams\ModificadorParams\obj\Debug\net7.0\ModificadorParams.AssemblyInfoInputs.cache
+D:\repositorio\POO_.NET\ModificadorParams\ModificadorParams\obj\Debug\net7.0\ModificadorParams.AssemblyInfo.cs
+D:\repositorio\POO_.NET\ModificadorParams\ModificadorParams\obj\Debug\net7.0\ModificadorParams.csproj.CoreCompileInputs.cache
+D:\repositorio\POO_.NET\ModificadorParams\ModificadorParams\obj\Debug\net7.0\ModificadorParams.sourcelink.json
+D:\repositorio\POO_.NET\ModificadorParams\ModificadorParams\obj\Debug\net7.0\ModificadorParams.dll
+D:\repositorio\POO_.NET\ModificadorParams\ModificadorParams\obj\Debug\net7.0\refint\ModificadorParams.dll
+D:\repositorio\POO_.NET\ModificadorParams\ModificadorParams\obj\Debug\net7.0\ModificadorParams.pdb
+D:\repositorio\POO_.NET\ModificadorParams\ModificadorParams\obj\Debug\net7.0\ModificadorParams.genruntimeconfig.cache
+D:\repositorio\POO_.NET\ModificadorParams\ModificadorParams\obj\Debug\net7.0\ref\ModificadorParams.dll

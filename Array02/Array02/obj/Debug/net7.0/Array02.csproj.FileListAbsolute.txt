@@ -1,0 +1,15 @@
+D:\repositorio\POO_.NET\Array02\Array02\bin\Debug\net7.0\Array02.exe
+D:\repositorio\POO_.NET\Array02\Array02\bin\Debug\net7.0\Array02.deps.json
+D:\repositorio\POO_.NET\Array02\Array02\bin\Debug\net7.0\Array02.runtimeconfig.json
+D:\repositorio\POO_.NET\Array02\Array02\bin\Debug\net7.0\Array02.dll
+D:\repositorio\POO_.NET\Array02\Array02\bin\Debug\net7.0\Array02.pdb
+D:\repositorio\POO_.NET\Array02\Array02\obj\Debug\net7.0\Array02.GeneratedMSBuildEditorConfig.editorconfig
+D:\repositorio\POO_.NET\Array02\Array02\obj\Debug\net7.0\Array02.AssemblyInfoInputs.cache
+D:\repositorio\POO_.NET\Array02\Array02\obj\Debug\net7.0\Array02.AssemblyInfo.cs
+D:\repositorio\POO_.NET\Array02\Array02\obj\Debug\net7.0\Array02.csproj.CoreCompileInputs.cache
+D:\repositorio\POO_.NET\Array02\Array02\obj\Debug\net7.0\Array02.sourcelink.json
+D:\repositorio\POO_.NET\Array02\Array02\obj\Debug\net7.0\Array02.dll
+D:\repositorio\POO_.NET\Array02\Array02\obj\Debug\net7.0\refint\Array02.dll
+D:\repositorio\POO_.NET\Array02\Array02\obj\Debug\net7.0\Array02.pdb
+D:\repositorio\POO_.NET\Array02\Array02\obj\Debug\net7.0\Array02.genruntimeconfig.cache
+D:\repositorio\POO_.NET\Array02\Array02\obj\Debug\net7.0\ref\Array02.dll

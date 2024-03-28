@@ -1,0 +1,15 @@
+D:\repositorio\POO_.NET\ListAdicionandoElementos\ListAdicionandoElementos\bin\Debug\net7.0\ListAdicionandoElementos.exe
+D:\repositorio\POO_.NET\ListAdicionandoElementos\ListAdicionandoElementos\bin\Debug\net7.0\ListAdicionandoElementos.deps.json
+D:\repositorio\POO_.NET\ListAdicionandoElementos\ListAdicionandoElementos\bin\Debug\net7.0\ListAdicionandoElementos.runtimeconfig.json
+D:\repositorio\POO_.NET\ListAdicionandoElementos\ListAdicionandoElementos\bin\Debug\net7.0\ListAdicionandoElementos.dll
+D:\repositorio\POO_.NET\ListAdicionandoElementos\ListAdicionandoElementos\bin\Debug\net7.0\ListAdicionandoElementos.pdb
+D:\repositorio\POO_.NET\ListAdicionandoElementos\ListAdicionandoElementos\obj\Debug\net7.0\ListAdicionandoElementos.GeneratedMSBuildEditorConfig.editorconfig
+D:\repositorio\POO_.NET\ListAdicionandoElementos\ListAdicionandoElementos\obj\Debug\net7.0\ListAdicionandoElementos.AssemblyInfoInputs.cache
+D:\repositorio\POO_.NET\ListAdicionandoElementos\ListAdicionandoElementos\obj\Debug\net7.0\ListAdicionandoElementos.AssemblyInfo.cs
+D:\repositorio\POO_.NET\ListAdicionandoElementos\ListAdicionandoElementos\obj\Debug\net7.0\ListAdicionandoElementos.csproj.CoreCompileInputs.cache
+D:\repositorio\POO_.NET\ListAdicionandoElementos\ListAdicionandoElementos\obj\Debug\net7.0\ListAdicionandoElementos.sourcelink.json
+D:\repositorio\POO_.NET\ListAdicionandoElementos\ListAdicionandoElementos\obj\Debug\net7.0\ListAdicionandoElementos.dll
+D:\repositorio\POO_.NET\ListAdicionandoElementos\ListAdicionandoElementos\obj\Debug\net7.0\refint\ListAdicionandoElementos.dll
+D:\repositorio\POO_.NET\ListAdicionandoElementos\ListAdicionandoElementos\obj\Debug\net7.0\ListAdicionandoElementos.pdb
+D:\repositorio\POO_.NET\ListAdicionandoElementos\ListAdicionandoElementos\obj\Debug\net7.0\ListAdicionandoElementos.genruntimeconfig.cache
+D:\repositorio\POO_.NET\ListAdicionandoElementos\ListAdicionandoElementos\obj\Debug\net7.0\ref\ListAdicionandoElementos.dll

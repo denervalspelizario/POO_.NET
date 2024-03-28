@@ -1,0 +1,15 @@
+D:\repositorio\POO_.NET\ArrayMultidimensional01\ArrayMultidimensional01\bin\Debug\net7.0\ArrayMultidimensional01.exe
+D:\repositorio\POO_.NET\ArrayMultidimensional01\ArrayMultidimensional01\bin\Debug\net7.0\ArrayMultidimensional01.deps.json
+D:\repositorio\POO_.NET\ArrayMultidimensional01\ArrayMultidimensional01\bin\Debug\net7.0\ArrayMultidimensional01.runtimeconfig.json
+D:\repositorio\POO_.NET\ArrayMultidimensional01\ArrayMultidimensional01\bin\Debug\net7.0\ArrayMultidimensional01.dll
+D:\repositorio\POO_.NET\ArrayMultidimensional01\ArrayMultidimensional01\bin\Debug\net7.0\ArrayMultidimensional01.pdb
+D:\repositorio\POO_.NET\ArrayMultidimensional01\ArrayMultidimensional01\obj\Debug\net7.0\ArrayMultidimensional01.GeneratedMSBuildEditorConfig.editorconfig
+D:\repositorio\POO_.NET\ArrayMultidimensional01\ArrayMultidimensional01\obj\Debug\net7.0\ArrayMultidimensional01.AssemblyInfoInputs.cache
+D:\repositorio\POO_.NET\ArrayMultidimensional01\ArrayMultidimensional01\obj\Debug\net7.0\ArrayMultidimensional01.AssemblyInfo.cs
+D:\repositorio\POO_.NET\ArrayMultidimensional01\ArrayMultidimensional01\obj\Debug\net7.0\ArrayMultidimensional01.csproj.CoreCompileInputs.cache
+D:\repositorio\POO_.NET\ArrayMultidimensional01\ArrayMultidimensional01\obj\Debug\net7.0\ArrayMultidimensional01.sourcelink.json
+D:\repositorio\POO_.NET\ArrayMultidimensional01\ArrayMultidimensional01\obj\Debug\net7.0\ArrayMultidimensional01.dll
+D:\repositorio\POO_.NET\ArrayMultidimensional01\ArrayMultidimensional01\obj\Debug\net7.0\refint\ArrayMultidimensional01.dll
+D:\repositorio\POO_.NET\ArrayMultidimensional01\ArrayMultidimensional01\obj\Debug\net7.0\ArrayMultidimensional01.pdb
+D:\repositorio\POO_.NET\ArrayMultidimensional01\ArrayMultidimensional01\obj\Debug\net7.0\ArrayMultidimensional01.genruntimeconfig.cache
+D:\repositorio\POO_.NET\ArrayMultidimensional01\ArrayMultidimensional01\obj\Debug\net7.0\ref\ArrayMultidimensional01.dll
