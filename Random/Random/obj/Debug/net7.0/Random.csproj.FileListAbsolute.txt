@@ -1,0 +1,15 @@
+D:\repositorio\POO_.NET\Random\Random\bin\Debug\net7.0\Random.exe
+D:\repositorio\POO_.NET\Random\Random\bin\Debug\net7.0\Random.deps.json
+D:\repositorio\POO_.NET\Random\Random\bin\Debug\net7.0\Random.runtimeconfig.json
+D:\repositorio\POO_.NET\Random\Random\bin\Debug\net7.0\Random.dll
+D:\repositorio\POO_.NET\Random\Random\bin\Debug\net7.0\Random.pdb
+D:\repositorio\POO_.NET\Random\Random\obj\Debug\net7.0\Random.GeneratedMSBuildEditorConfig.editorconfig
+D:\repositorio\POO_.NET\Random\Random\obj\Debug\net7.0\Random.AssemblyInfoInputs.cache
+D:\repositorio\POO_.NET\Random\Random\obj\Debug\net7.0\Random.AssemblyInfo.cs
+D:\repositorio\POO_.NET\Random\Random\obj\Debug\net7.0\Random.csproj.CoreCompileInputs.cache
+D:\repositorio\POO_.NET\Random\Random\obj\Debug\net7.0\Random.sourcelink.json
+D:\repositorio\POO_.NET\Random\Random\obj\Debug\net7.0\Random.dll
+D:\repositorio\POO_.NET\Random\Random\obj\Debug\net7.0\refint\Random.dll
+D:\repositorio\POO_.NET\Random\Random\obj\Debug\net7.0\Random.pdb
+D:\repositorio\POO_.NET\Random\Random\obj\Debug\net7.0\Random.genruntimeconfig.cache
+D:\repositorio\POO_.NET\Random\Random\obj\Debug\net7.0\ref\Random.dll
