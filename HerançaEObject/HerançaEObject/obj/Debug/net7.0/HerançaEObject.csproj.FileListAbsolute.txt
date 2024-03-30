@@ -1,0 +1,15 @@
+D:\repositorio\POO_.NET\HerançaEObject\HerançaEObject\bin\Debug\net7.0\HerançaEObject.exe
+D:\repositorio\POO_.NET\HerançaEObject\HerançaEObject\bin\Debug\net7.0\HerançaEObject.deps.json
+D:\repositorio\POO_.NET\HerançaEObject\HerançaEObject\bin\Debug\net7.0\HerançaEObject.runtimeconfig.json
+D:\repositorio\POO_.NET\HerançaEObject\HerançaEObject\bin\Debug\net7.0\HerançaEObject.dll
+D:\repositorio\POO_.NET\HerançaEObject\HerançaEObject\bin\Debug\net7.0\HerançaEObject.pdb
+D:\repositorio\POO_.NET\HerançaEObject\HerançaEObject\obj\Debug\net7.0\HerançaEObject.GeneratedMSBuildEditorConfig.editorconfig
+D:\repositorio\POO_.NET\HerançaEObject\HerançaEObject\obj\Debug\net7.0\HerançaEObject.AssemblyInfoInputs.cache
+D:\repositorio\POO_.NET\HerançaEObject\HerançaEObject\obj\Debug\net7.0\HerançaEObject.AssemblyInfo.cs
+D:\repositorio\POO_.NET\HerançaEObject\HerançaEObject\obj\Debug\net7.0\HerançaEObject.csproj.CoreCompileInputs.cache
+D:\repositorio\POO_.NET\HerançaEObject\HerançaEObject\obj\Debug\net7.0\HerançaEObject.sourcelink.json
+D:\repositorio\POO_.NET\HerançaEObject\HerançaEObject\obj\Debug\net7.0\HerançaEObject.dll
+D:\repositorio\POO_.NET\HerançaEObject\HerançaEObject\obj\Debug\net7.0\refint\HerançaEObject.dll
+D:\repositorio\POO_.NET\HerançaEObject\HerançaEObject\obj\Debug\net7.0\HerançaEObject.pdb
+D:\repositorio\POO_.NET\HerançaEObject\HerançaEObject\obj\Debug\net7.0\HerançaEObject.genruntimeconfig.cache
+D:\repositorio\POO_.NET\HerançaEObject\HerançaEObject\obj\Debug\net7.0\ref\HerançaEObject.dll

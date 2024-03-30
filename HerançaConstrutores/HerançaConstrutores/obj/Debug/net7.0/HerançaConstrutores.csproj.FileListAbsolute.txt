@@ -1,0 +1,15 @@
+D:\repositorio\POO_.NET\HerançaConstrutores\HerançaConstrutores\bin\Debug\net7.0\HerançaConstrutores.exe
+D:\repositorio\POO_.NET\HerançaConstrutores\HerançaConstrutores\bin\Debug\net7.0\HerançaConstrutores.deps.json
+D:\repositorio\POO_.NET\HerançaConstrutores\HerançaConstrutores\bin\Debug\net7.0\HerançaConstrutores.runtimeconfig.json
+D:\repositorio\POO_.NET\HerançaConstrutores\HerançaConstrutores\bin\Debug\net7.0\HerançaConstrutores.dll
+D:\repositorio\POO_.NET\HerançaConstrutores\HerançaConstrutores\bin\Debug\net7.0\HerançaConstrutores.pdb
+D:\repositorio\POO_.NET\HerançaConstrutores\HerançaConstrutores\obj\Debug\net7.0\HerançaConstrutores.GeneratedMSBuildEditorConfig.editorconfig
+D:\repositorio\POO_.NET\HerançaConstrutores\HerançaConstrutores\obj\Debug\net7.0\HerançaConstrutores.AssemblyInfoInputs.cache
+D:\repositorio\POO_.NET\HerançaConstrutores\HerançaConstrutores\obj\Debug\net7.0\HerançaConstrutores.AssemblyInfo.cs
+D:\repositorio\POO_.NET\HerançaConstrutores\HerançaConstrutores\obj\Debug\net7.0\HerançaConstrutores.csproj.CoreCompileInputs.cache
+D:\repositorio\POO_.NET\HerançaConstrutores\HerançaConstrutores\obj\Debug\net7.0\HerançaConstrutores.sourcelink.json
+D:\repositorio\POO_.NET\HerançaConstrutores\HerançaConstrutores\obj\Debug\net7.0\HerançaConstrutores.dll
+D:\repositorio\POO_.NET\HerançaConstrutores\HerançaConstrutores\obj\Debug\net7.0\refint\HerançaConstrutores.dll
+D:\repositorio\POO_.NET\HerançaConstrutores\HerançaConstrutores\obj\Debug\net7.0\HerançaConstrutores.pdb
+D:\repositorio\POO_.NET\HerançaConstrutores\HerançaConstrutores\obj\Debug\net7.0\HerançaConstrutores.genruntimeconfig.cache
+D:\repositorio\POO_.NET\HerançaConstrutores\HerançaConstrutores\obj\Debug\net7.0\ref\HerançaConstrutores.dll

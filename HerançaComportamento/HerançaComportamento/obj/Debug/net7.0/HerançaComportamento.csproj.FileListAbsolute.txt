@@ -1,0 +1,15 @@
+D:\repositorio\POO_.NET\HerançaComportamento\HerançaComportamento\bin\Debug\net7.0\HerançaComportamento.exe
+D:\repositorio\POO_.NET\HerançaComportamento\HerançaComportamento\bin\Debug\net7.0\HerançaComportamento.deps.json
+D:\repositorio\POO_.NET\HerançaComportamento\HerançaComportamento\bin\Debug\net7.0\HerançaComportamento.runtimeconfig.json
+D:\repositorio\POO_.NET\HerançaComportamento\HerançaComportamento\bin\Debug\net7.0\HerançaComportamento.dll
+D:\repositorio\POO_.NET\HerançaComportamento\HerançaComportamento\bin\Debug\net7.0\HerançaComportamento.pdb
+D:\repositorio\POO_.NET\HerançaComportamento\HerançaComportamento\obj\Debug\net7.0\HerançaComportamento.GeneratedMSBuildEditorConfig.editorconfig
+D:\repositorio\POO_.NET\HerançaComportamento\HerançaComportamento\obj\Debug\net7.0\HerançaComportamento.AssemblyInfoInputs.cache
+D:\repositorio\POO_.NET\HerançaComportamento\HerançaComportamento\obj\Debug\net7.0\HerançaComportamento.AssemblyInfo.cs
+D:\repositorio\POO_.NET\HerançaComportamento\HerançaComportamento\obj\Debug\net7.0\HerançaComportamento.csproj.CoreCompileInputs.cache
+D:\repositorio\POO_.NET\HerançaComportamento\HerançaComportamento\obj\Debug\net7.0\HerançaComportamento.sourcelink.json
+D:\repositorio\POO_.NET\HerançaComportamento\HerançaComportamento\obj\Debug\net7.0\HerançaComportamento.dll
+D:\repositorio\POO_.NET\HerançaComportamento\HerançaComportamento\obj\Debug\net7.0\refint\HerançaComportamento.dll
+D:\repositorio\POO_.NET\HerançaComportamento\HerançaComportamento\obj\Debug\net7.0\HerançaComportamento.pdb
+D:\repositorio\POO_.NET\HerançaComportamento\HerançaComportamento\obj\Debug\net7.0\HerançaComportamento.genruntimeconfig.cache
+D:\repositorio\POO_.NET\HerançaComportamento\HerançaComportamento\obj\Debug\net7.0\ref\HerançaComportamento.dll

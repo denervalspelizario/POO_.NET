@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\repositorio\\POO_.NET\\Heran\u00E7aEObject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{992EE207-9861-47B4-BE89-D70943185031}|Heran\u00E7aEObject\\Heran\u00E7aEObject.csproj|d:\\repositorio\\poo_.net\\heran\u00E7aeobject\\heran\u00E7aeobject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{992EE207-9861-47B4-BE89-D70943185031}|Heran\u00E7aEObject\\Heran\u00E7aEObject.csproj|solutionrelative:heran\u00E7aeobject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\repositorio\\POO_.NET\\Heran\u00E7aEObject\\Heran\u00E7aEObject\\Program.cs",
+              "RelativeDocumentMoniker": "Heran\u00E7aEObject\\Program.cs",
+              "ToolTip": "D:\\repositorio\\POO_.NET\\Heran\u00E7aEObject\\Heran\u00E7aEObject\\Program.cs",
+              "RelativeToolTip": "Heran\u00E7aEObject\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T14:21:20.633Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
