@@ -1,0 +1,15 @@
+D:\repositorio\POO_.NET\Downcasting_Upcasting\Downcasting_Upcasting\bin\Debug\net7.0\Downcasting_Upcasting.exe
+D:\repositorio\POO_.NET\Downcasting_Upcasting\Downcasting_Upcasting\bin\Debug\net7.0\Downcasting_Upcasting.deps.json
+D:\repositorio\POO_.NET\Downcasting_Upcasting\Downcasting_Upcasting\bin\Debug\net7.0\Downcasting_Upcasting.runtimeconfig.json
+D:\repositorio\POO_.NET\Downcasting_Upcasting\Downcasting_Upcasting\bin\Debug\net7.0\Downcasting_Upcasting.dll
+D:\repositorio\POO_.NET\Downcasting_Upcasting\Downcasting_Upcasting\bin\Debug\net7.0\Downcasting_Upcasting.pdb
+D:\repositorio\POO_.NET\Downcasting_Upcasting\Downcasting_Upcasting\obj\Debug\net7.0\Downcasting_Upcasting.GeneratedMSBuildEditorConfig.editorconfig
+D:\repositorio\POO_.NET\Downcasting_Upcasting\Downcasting_Upcasting\obj\Debug\net7.0\Downcasting_Upcasting.AssemblyInfoInputs.cache
+D:\repositorio\POO_.NET\Downcasting_Upcasting\Downcasting_Upcasting\obj\Debug\net7.0\Downcasting_Upcasting.AssemblyInfo.cs
+D:\repositorio\POO_.NET\Downcasting_Upcasting\Downcasting_Upcasting\obj\Debug\net7.0\Downcasting_Upcasting.csproj.CoreCompileInputs.cache
+D:\repositorio\POO_.NET\Downcasting_Upcasting\Downcasting_Upcasting\obj\Debug\net7.0\Downcasting_Upcasting.sourcelink.json
+D:\repositorio\POO_.NET\Downcasting_Upcasting\Downcasting_Upcasting\obj\Debug\net7.0\Downcasting_Upcasting.dll
+D:\repositorio\POO_.NET\Downcasting_Upcasting\Downcasting_Upcasting\obj\Debug\net7.0\refint\Downcasting_Upcasting.dll
+D:\repositorio\POO_.NET\Downcasting_Upcasting\Downcasting_Upcasting\obj\Debug\net7.0\Downcasting_Upcasting.pdb
+D:\repositorio\POO_.NET\Downcasting_Upcasting\Downcasting_Upcasting\obj\Debug\net7.0\Downcasting_Upcasting.genruntimeconfig.cache
+D:\repositorio\POO_.NET\Downcasting_Upcasting\Downcasting_Upcasting\obj\Debug\net7.0\ref\Downcasting_Upcasting.dll

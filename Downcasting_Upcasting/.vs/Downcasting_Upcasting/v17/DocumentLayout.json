@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\repositorio\\POO_.NET\\Downcasting_Upcasting\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3F8A906F-9505-4AA4-8CD1-78EEB42980C1}|Downcasting_Upcasting\\Downcasting_Upcasting.csproj|d:\\repositorio\\poo_.net\\downcasting_upcasting\\downcasting_upcasting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F8A906F-9505-4AA4-8CD1-78EEB42980C1}|Downcasting_Upcasting\\Downcasting_Upcasting.csproj|solutionrelative:downcasting_upcasting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F8A906F-9505-4AA4-8CD1-78EEB42980C1}|Downcasting_Upcasting\\Downcasting_Upcasting.csproj|d:\\repositorio\\poo_.net\\downcasting_upcasting\\downcasting_upcasting\\circulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F8A906F-9505-4AA4-8CD1-78EEB42980C1}|Downcasting_Upcasting\\Downcasting_Upcasting.csproj|solutionrelative:downcasting_upcasting\\circulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F8A906F-9505-4AA4-8CD1-78EEB42980C1}|Downcasting_Upcasting\\Downcasting_Upcasting.csproj|d:\\repositorio\\poo_.net\\downcasting_upcasting\\downcasting_upcasting\\forma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F8A906F-9505-4AA4-8CD1-78EEB42980C1}|Downcasting_Upcasting\\Downcasting_Upcasting.csproj|solutionrelative:downcasting_upcasting\\forma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Circulo.cs",
+              "DocumentMoniker": "D:\\repositorio\\POO_.NET\\Downcasting_Upcasting\\Downcasting_Upcasting\\Circulo.cs",
+              "RelativeDocumentMoniker": "Downcasting_Upcasting\\Circulo.cs",
+              "ToolTip": "D:\\repositorio\\POO_.NET\\Downcasting_Upcasting\\Downcasting_Upcasting\\Circulo.cs",
+              "RelativeToolTip": "Downcasting_Upcasting\\Circulo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T18:24:48.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Forma.cs",
+              "DocumentMoniker": "D:\\repositorio\\POO_.NET\\Downcasting_Upcasting\\Downcasting_Upcasting\\Forma.cs",
+              "RelativeDocumentMoniker": "Downcasting_Upcasting\\Forma.cs",
+              "ToolTip": "D:\\repositorio\\POO_.NET\\Downcasting_Upcasting\\Downcasting_Upcasting\\Forma.cs",
+              "RelativeToolTip": "Downcasting_Upcasting\\Forma.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T18:20:59.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\repositorio\\POO_.NET\\Downcasting_Upcasting\\Downcasting_Upcasting\\Program.cs",
+              "RelativeDocumentMoniker": "Downcasting_Upcasting\\Program.cs",
+              "ToolTip": "D:\\repositorio\\POO_.NET\\Downcasting_Upcasting\\Downcasting_Upcasting\\Program.cs",
+              "RelativeToolTip": "Downcasting_Upcasting\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T18:19:29.919Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
