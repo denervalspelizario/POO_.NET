@@ -6,13 +6,42 @@ ContaCorrente contaCorrente = new ContaCorrente(456, "Denerval Silva");
 
 Console.WriteLine($"\nCliente: {contaCorrente.NomeCliente}, conta-corrente:{contaCorrente.NumeroConta}, Saldo: {contaCorrente.Saldo}");
 
-contaCorrente.Depositar(100);
+Console.WriteLine("Depositando 1000 na conta corrente");
+contaCorrente.Depositar(1000);
 contaCorrente.SaldoConta();
-
-contaCorrente.Sacar(75);
+Console.WriteLine("Sacando o valor de 100");
+contaCorrente.Sacar(100);
+contaCorrente.SaldoConta();
+Console.WriteLine("Fazendo saque de 2000");
+contaCorrente.Sacar(2000);
 contaCorrente.SaldoConta();
 
 Console.WriteLine("\nTeste Conta Poupança ");
+
+ContaPoupanca contaPoupanca = new ContaPoupanca(789, "Denerval Pelizario");
+Console.WriteLine("Depositando 1000 na conta poupança");
+contaPoupanca.Depositar(1000);
+contaPoupanca.SaldoConta();
+Console.WriteLine("Sacando o valor de 100");
+contaPoupanca.Sacar(100);
+contaPoupanca.SaldoConta();
+Console.WriteLine("Fazendo saque de 2000");
+contaPoupanca.Sacar(2000);
+contaPoupanca.SaldoConta();
+
+
+Console.WriteLine("\nTeste Conta Investimento ");
+ContaInvestimento contaInvestimento = new ContaInvestimento(1012, "Francisca Pelizario");
+contaInvestimento.SaldoConta();
+Console.WriteLine("Depois do deposito 1000");
+contaInvestimento.Depositar(1000);
+contaInvestimento.SaldoConta();
+Console.WriteLine("Sacando o valor 100");
+contaInvestimento.Sacar(100);
+contaInvestimento.SaldoConta();
+Console.WriteLine("Fazendo saque de 2000");
+contaInvestimento.Sacar(2000);
+contaInvestimento.SaldoConta();
 
 
 Console.ReadKey();
@@ -38,7 +67,7 @@ public class ContaBase
 
     }
 
-    public void Depositar(double valorDeposito)
+    public virtual void Depositar(double valorDeposito)
     {
         if(valorDeposito > 0)
         {
@@ -51,16 +80,9 @@ public class ContaBase
         
     }
 
-    public void Sacar(double valorSacar)
+    public virtual void Sacar(double valorSacar)
     {
-        if(valorSacar < Saldo)
-        {
-            Saldo -= valorSacar;
-        }
-        else
-        {
-            Console.WriteLine("Valor a sacar superior ao saldo verifiue o saldo para sacar");
-        }
+        Saldo -= valorSacar;
     }
 }
 // criando a classe ContaCorrente herandando a classe da ContaBase
@@ -70,5 +92,75 @@ public class ContaCorrente : ContaBase
     public ContaCorrente(int numeroConta, string nomeCliente)
         : base(numeroConta, nomeCliente)
     {
+
     }
+}
+
+public class ContaPoupanca : ContaBase
+{
+    public ContaPoupanca(int numeroConta, string nomeCliente)
+        : base(numeroConta, nomeCliente)
+    {
+
+    }
+    public override void Depositar(double valorDeposito)
+    {
+        if (valorDeposito > 0)
+        {
+            Saldo += (valorDeposito + valorDeposito * 0.05);
+        }
+        else
+        {
+            Console.WriteLine("Valor para deposito inválido");
+        }
+
+    }
+    public override void Sacar(double valorSacar)
+    {
+        if (valorSacar <= Saldo)
+        {
+            Saldo -= valorSacar;
+        }
+        else
+        {
+            Console.WriteLine("Valor a sacar superior ao saldo verifique o saldo para sacar");
+        }
+    }
+
+
+}
+
+public class ContaInvestimento : ContaBase
+{
+    public ContaInvestimento(int numeroConta, string nomeCliente)
+        : base(numeroConta, nomeCliente)
+    {
+
+    }
+    public override void Depositar(double valorDeposito)
+    {
+        if (valorDeposito > 0)
+        {
+            Saldo += (valorDeposito + valorDeposito * 0.09);
+        }
+        else
+        {
+            Console.WriteLine("Valor para deposito inválido");
+        }
+
+    }
+
+    public override void Sacar(double valorSacar)
+    {
+        if (valorSacar <= Saldo)
+        {
+            Saldo -= valorSacar;
+        }
+        else
+        {
+            Console.WriteLine("Valor a sacar superior ao saldo verifique o saldo para sacar");
+        }
+    }
+
+
 }
