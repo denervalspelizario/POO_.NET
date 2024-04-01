@@ -1,0 +1,15 @@
+D:\repositorio\POO_.NET\Operadores_Is_As\Operadores_Is_As\bin\Debug\net7.0\Operadores_Is_As.exe
+D:\repositorio\POO_.NET\Operadores_Is_As\Operadores_Is_As\bin\Debug\net7.0\Operadores_Is_As.deps.json
+D:\repositorio\POO_.NET\Operadores_Is_As\Operadores_Is_As\bin\Debug\net7.0\Operadores_Is_As.runtimeconfig.json
+D:\repositorio\POO_.NET\Operadores_Is_As\Operadores_Is_As\bin\Debug\net7.0\Operadores_Is_As.dll
+D:\repositorio\POO_.NET\Operadores_Is_As\Operadores_Is_As\bin\Debug\net7.0\Operadores_Is_As.pdb
+D:\repositorio\POO_.NET\Operadores_Is_As\Operadores_Is_As\obj\Debug\net7.0\Operadores_Is_As.GeneratedMSBuildEditorConfig.editorconfig
+D:\repositorio\POO_.NET\Operadores_Is_As\Operadores_Is_As\obj\Debug\net7.0\Operadores_Is_As.AssemblyInfoInputs.cache
+D:\repositorio\POO_.NET\Operadores_Is_As\Operadores_Is_As\obj\Debug\net7.0\Operadores_Is_As.AssemblyInfo.cs
+D:\repositorio\POO_.NET\Operadores_Is_As\Operadores_Is_As\obj\Debug\net7.0\Operadores_Is_As.csproj.CoreCompileInputs.cache
+D:\repositorio\POO_.NET\Operadores_Is_As\Operadores_Is_As\obj\Debug\net7.0\Operadores_Is_As.sourcelink.json
+D:\repositorio\POO_.NET\Operadores_Is_As\Operadores_Is_As\obj\Debug\net7.0\Operadores_Is_As.dll
+D:\repositorio\POO_.NET\Operadores_Is_As\Operadores_Is_As\obj\Debug\net7.0\refint\Operadores_Is_As.dll
+D:\repositorio\POO_.NET\Operadores_Is_As\Operadores_Is_As\obj\Debug\net7.0\Operadores_Is_As.pdb
+D:\repositorio\POO_.NET\Operadores_Is_As\Operadores_Is_As\obj\Debug\net7.0\Operadores_Is_As.genruntimeconfig.cache
+D:\repositorio\POO_.NET\Operadores_Is_As\Operadores_Is_As\obj\Debug\net7.0\ref\Operadores_Is_As.dll

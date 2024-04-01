@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\repositorio\\POO_.NET\\Operadores_Is_As\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C0A6EE6D-842E-409F-A7C5-CF3F40DF7098}|Operadores_Is_As\\Operadores_Is_As.csproj|d:\\repositorio\\poo_.net\\operadores_is_as\\operadores_is_as\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0A6EE6D-842E-409F-A7C5-CF3F40DF7098}|Operadores_Is_As\\Operadores_Is_As.csproj|solutionrelative:operadores_is_as\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\repositorio\\POO_.NET\\Operadores_Is_As\\Operadores_Is_As\\Program.cs",
+              "RelativeDocumentMoniker": "Operadores_Is_As\\Program.cs",
+              "ToolTip": "D:\\repositorio\\POO_.NET\\Operadores_Is_As\\Operadores_Is_As\\Program.cs",
+              "RelativeToolTip": "Operadores_Is_As\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T22:01:32.12Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
