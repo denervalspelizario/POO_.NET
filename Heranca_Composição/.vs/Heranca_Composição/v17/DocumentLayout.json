@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\repositorio\\POO_.NET\\Heranca_Composi\u00E7\u00E3o\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{427E6161-63D5-4BF5-96B6-A19198B7C599}|Heranca_Composi\u00E7\u00E3o\\Heranca_Composi\u00E7\u00E3o.csproj|d:\\repositorio\\poo_.net\\heranca_composi\u00E7\u00E3o\\heranca_composi\u00E7\u00E3o\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{427E6161-63D5-4BF5-96B6-A19198B7C599}|Heranca_Composi\u00E7\u00E3o\\Heranca_Composi\u00E7\u00E3o.csproj|solutionrelative:heranca_composi\u00E7\u00E3o\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{427E6161-63D5-4BF5-96B6-A19198B7C599}|Heranca_Composi\u00E7\u00E3o\\Heranca_Composi\u00E7\u00E3o.csproj|d:\\repositorio\\poo_.net\\heranca_composi\u00E7\u00E3o\\heranca_composi\u00E7\u00E3o\\macaco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{427E6161-63D5-4BF5-96B6-A19198B7C599}|Heranca_Composi\u00E7\u00E3o\\Heranca_Composi\u00E7\u00E3o.csproj|solutionrelative:heranca_composi\u00E7\u00E3o\\macaco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{427E6161-63D5-4BF5-96B6-A19198B7C599}|Heranca_Composi\u00E7\u00E3o\\Heranca_Composi\u00E7\u00E3o.csproj|d:\\repositorio\\poo_.net\\heranca_composi\u00E7\u00E3o\\heranca_composi\u00E7\u00E3o\\comportamentonadar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{427E6161-63D5-4BF5-96B6-A19198B7C599}|Heranca_Composi\u00E7\u00E3o\\Heranca_Composi\u00E7\u00E3o.csproj|solutionrelative:heranca_composi\u00E7\u00E3o\\comportamentonadar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{427E6161-63D5-4BF5-96B6-A19198B7C599}|Heranca_Composi\u00E7\u00E3o\\Heranca_Composi\u00E7\u00E3o.csproj|d:\\repositorio\\poo_.net\\heranca_composi\u00E7\u00E3o\\heranca_composi\u00E7\u00E3o\\comportamentoandar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{427E6161-63D5-4BF5-96B6-A19198B7C599}|Heranca_Composi\u00E7\u00E3o\\Heranca_Composi\u00E7\u00E3o.csproj|solutionrelative:heranca_composi\u00E7\u00E3o\\comportamentoandar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{427E6161-63D5-4BF5-96B6-A19198B7C599}|Heranca_Composi\u00E7\u00E3o\\Heranca_Composi\u00E7\u00E3o.csproj|d:\\repositorio\\poo_.net\\heranca_composi\u00E7\u00E3o\\heranca_composi\u00E7\u00E3o\\sardinha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{427E6161-63D5-4BF5-96B6-A19198B7C599}|Heranca_Composi\u00E7\u00E3o\\Heranca_Composi\u00E7\u00E3o.csproj|solutionrelative:heranca_composi\u00E7\u00E3o\\sardinha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{427E6161-63D5-4BF5-96B6-A19198B7C599}|Heranca_Composi\u00E7\u00E3o\\Heranca_Composi\u00E7\u00E3o.csproj|d:\\repositorio\\poo_.net\\heranca_composi\u00E7\u00E3o\\heranca_composi\u00E7\u00E3o\\homem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{427E6161-63D5-4BF5-96B6-A19198B7C599}|Heranca_Composi\u00E7\u00E3o\\Heranca_Composi\u00E7\u00E3o.csproj|solutionrelative:heranca_composi\u00E7\u00E3o\\homem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{427E6161-63D5-4BF5-96B6-A19198B7C599}|Heranca_Composi\u00E7\u00E3o\\Heranca_Composi\u00E7\u00E3o.csproj|d:\\repositorio\\poo_.net\\heranca_composi\u00E7\u00E3o\\heranca_composi\u00E7\u00E3o\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{427E6161-63D5-4BF5-96B6-A19198B7C599}|Heranca_Composi\u00E7\u00E3o\\Heranca_Composi\u00E7\u00E3o.csproj|solutionrelative:heranca_composi\u00E7\u00E3o\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ComportamentoNadar.cs",
+              "DocumentMoniker": "D:\\repositorio\\POO_.NET\\Heranca_Composi\u00E7\u00E3o\\Heranca_Composi\u00E7\u00E3o\\ComportamentoNadar.cs",
+              "RelativeDocumentMoniker": "Heranca_Composi\u00E7\u00E3o\\ComportamentoNadar.cs",
+              "ToolTip": "D:\\repositorio\\POO_.NET\\Heranca_Composi\u00E7\u00E3o\\Heranca_Composi\u00E7\u00E3o\\ComportamentoNadar.cs",
+              "RelativeToolTip": "Heranca_Composi\u00E7\u00E3o\\ComportamentoNadar.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T16:42:05.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ComportamentoAndar.cs",
+              "DocumentMoniker": "D:\\repositorio\\POO_.NET\\Heranca_Composi\u00E7\u00E3o\\Heranca_Composi\u00E7\u00E3o\\ComportamentoAndar.cs",
+              "RelativeDocumentMoniker": "Heranca_Composi\u00E7\u00E3o\\ComportamentoAndar.cs",
+              "ToolTip": "D:\\repositorio\\POO_.NET\\Heranca_Composi\u00E7\u00E3o\\Heranca_Composi\u00E7\u00E3o\\ComportamentoAndar.cs",
+              "RelativeToolTip": "Heranca_Composi\u00E7\u00E3o\\ComportamentoAndar.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T15:23:03.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Homem.cs",
+              "DocumentMoniker": "D:\\repositorio\\POO_.NET\\Heranca_Composi\u00E7\u00E3o\\Heranca_Composi\u00E7\u00E3o\\Homem.cs",
+              "RelativeDocumentMoniker": "Heranca_Composi\u00E7\u00E3o\\Homem.cs",
+              "ToolTip": "D:\\repositorio\\POO_.NET\\Heranca_Composi\u00E7\u00E3o\\Heranca_Composi\u00E7\u00E3o\\Homem.cs",
+              "RelativeToolTip": "Heranca_Composi\u00E7\u00E3o\\Homem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T15:21:13.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Sardinha.cs",
+              "DocumentMoniker": "D:\\repositorio\\POO_.NET\\Heranca_Composi\u00E7\u00E3o\\Heranca_Composi\u00E7\u00E3o\\Sardinha.cs",
+              "RelativeDocumentMoniker": "Heranca_Composi\u00E7\u00E3o\\Sardinha.cs",
+              "ToolTip": "D:\\repositorio\\POO_.NET\\Heranca_Composi\u00E7\u00E3o\\Heranca_Composi\u00E7\u00E3o\\Sardinha.cs",
+              "RelativeToolTip": "Heranca_Composi\u00E7\u00E3o\\Sardinha.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T15:20:21.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Macaco.cs",
+              "DocumentMoniker": "D:\\repositorio\\POO_.NET\\Heranca_Composi\u00E7\u00E3o\\Heranca_Composi\u00E7\u00E3o\\Macaco.cs",
+              "RelativeDocumentMoniker": "Heranca_Composi\u00E7\u00E3o\\Macaco.cs",
+              "ToolTip": "D:\\repositorio\\POO_.NET\\Heranca_Composi\u00E7\u00E3o\\Heranca_Composi\u00E7\u00E3o\\Macaco.cs",
+              "RelativeToolTip": "Heranca_Composi\u00E7\u00E3o\\Macaco.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T15:19:37.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "D:\\repositorio\\POO_.NET\\Heranca_Composi\u00E7\u00E3o\\Heranca_Composi\u00E7\u00E3o\\Animal.cs",
+              "RelativeDocumentMoniker": "Heranca_Composi\u00E7\u00E3o\\Animal.cs",
+              "ToolTip": "D:\\repositorio\\POO_.NET\\Heranca_Composi\u00E7\u00E3o\\Heranca_Composi\u00E7\u00E3o\\Animal.cs",
+              "RelativeToolTip": "Heranca_Composi\u00E7\u00E3o\\Animal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T15:14:08.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\repositorio\\POO_.NET\\Heranca_Composi\u00E7\u00E3o\\Heranca_Composi\u00E7\u00E3o\\Program.cs",
+              "RelativeDocumentMoniker": "Heranca_Composi\u00E7\u00E3o\\Program.cs",
+              "ToolTip": "D:\\repositorio\\POO_.NET\\Heranca_Composi\u00E7\u00E3o\\Heranca_Composi\u00E7\u00E3o\\Program.cs",
+              "RelativeToolTip": "Heranca_Composi\u00E7\u00E3o\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T15:11:51.066Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

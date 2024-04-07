@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\repositorio\\POO_.NET\\Agregacao\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D623D305-2D53-426A-A9CC-3896E287E57B}|Agregacao\\Agregacao.csproj|d:\\repositorio\\poo_.net\\agregacao\\agregacao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D623D305-2D53-426A-A9CC-3896E287E57B}|Agregacao\\Agregacao.csproj|solutionrelative:agregacao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D623D305-2D53-426A-A9CC-3896E287E57B}|Agregacao\\Agregacao.csproj|d:\\repositorio\\poo_.net\\agregacao\\agregacao\\departamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D623D305-2D53-426A-A9CC-3896E287E57B}|Agregacao\\Agregacao.csproj|solutionrelative:agregacao\\departamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D623D305-2D53-426A-A9CC-3896E287E57B}|Agregacao\\Agregacao.csproj|d:\\repositorio\\poo_.net\\agregacao\\agregacao\\professor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D623D305-2D53-426A-A9CC-3896E287E57B}|Agregacao\\Agregacao.csproj|solutionrelative:agregacao\\professor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Departamento.cs",
+              "DocumentMoniker": "D:\\repositorio\\POO_.NET\\Agregacao\\Agregacao\\Departamento.cs",
+              "RelativeDocumentMoniker": "Agregacao\\Departamento.cs",
+              "ToolTip": "D:\\repositorio\\POO_.NET\\Agregacao\\Agregacao\\Departamento.cs",
+              "RelativeToolTip": "Agregacao\\Departamento.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABcAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T14:01:16.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Professor.cs",
+              "DocumentMoniker": "D:\\repositorio\\POO_.NET\\Agregacao\\Agregacao\\Professor.cs",
+              "RelativeDocumentMoniker": "Agregacao\\Professor.cs",
+              "ToolTip": "D:\\repositorio\\POO_.NET\\Agregacao\\Agregacao\\Professor.cs",
+              "RelativeToolTip": "Agregacao\\Professor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T13:58:19.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\repositorio\\POO_.NET\\Agregacao\\Agregacao\\Program.cs",
+              "RelativeDocumentMoniker": "Agregacao\\Program.cs",
+              "ToolTip": "D:\\repositorio\\POO_.NET\\Agregacao\\Agregacao\\Program.cs",
+              "RelativeToolTip": "Agregacao\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T13:57:29.985Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

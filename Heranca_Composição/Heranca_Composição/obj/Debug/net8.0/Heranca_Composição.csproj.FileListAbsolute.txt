@@ -1,0 +1,15 @@
+D:\repositorio\POO_.NET\Heranca_Composição\Heranca_Composição\bin\Debug\net8.0\Heranca_Composição.exe
+D:\repositorio\POO_.NET\Heranca_Composição\Heranca_Composição\bin\Debug\net8.0\Heranca_Composição.deps.json
+D:\repositorio\POO_.NET\Heranca_Composição\Heranca_Composição\bin\Debug\net8.0\Heranca_Composição.runtimeconfig.json
+D:\repositorio\POO_.NET\Heranca_Composição\Heranca_Composição\bin\Debug\net8.0\Heranca_Composição.dll
+D:\repositorio\POO_.NET\Heranca_Composição\Heranca_Composição\bin\Debug\net8.0\Heranca_Composição.pdb
+D:\repositorio\POO_.NET\Heranca_Composição\Heranca_Composição\obj\Debug\net8.0\Heranca_Composição.GeneratedMSBuildEditorConfig.editorconfig
+D:\repositorio\POO_.NET\Heranca_Composição\Heranca_Composição\obj\Debug\net8.0\Heranca_Composição.AssemblyInfoInputs.cache
+D:\repositorio\POO_.NET\Heranca_Composição\Heranca_Composição\obj\Debug\net8.0\Heranca_Composição.AssemblyInfo.cs
+D:\repositorio\POO_.NET\Heranca_Composição\Heranca_Composição\obj\Debug\net8.0\Heranca_Composição.csproj.CoreCompileInputs.cache
+D:\repositorio\POO_.NET\Heranca_Composição\Heranca_Composição\obj\Debug\net8.0\Heranca_Composição.sourcelink.json
+D:\repositorio\POO_.NET\Heranca_Composição\Heranca_Composição\obj\Debug\net8.0\Heranca_Composição.dll
+D:\repositorio\POO_.NET\Heranca_Composição\Heranca_Composição\obj\Debug\net8.0\refint\Heranca_Composição.dll
+D:\repositorio\POO_.NET\Heranca_Composição\Heranca_Composição\obj\Debug\net8.0\Heranca_Composição.pdb
+D:\repositorio\POO_.NET\Heranca_Composição\Heranca_Composição\obj\Debug\net8.0\Heranca_Composição.genruntimeconfig.cache
+D:\repositorio\POO_.NET\Heranca_Composição\Heranca_Composição\obj\Debug\net8.0\ref\Heranca_Composição.dll
