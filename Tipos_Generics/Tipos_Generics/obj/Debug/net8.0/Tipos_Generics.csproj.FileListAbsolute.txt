@@ -1,0 +1,15 @@
+D:\repositorio\POO_.NET\Tipos_Generics\Tipos_Generics\bin\Debug\net8.0\Tipos_Generics.exe
+D:\repositorio\POO_.NET\Tipos_Generics\Tipos_Generics\bin\Debug\net8.0\Tipos_Generics.deps.json
+D:\repositorio\POO_.NET\Tipos_Generics\Tipos_Generics\bin\Debug\net8.0\Tipos_Generics.runtimeconfig.json
+D:\repositorio\POO_.NET\Tipos_Generics\Tipos_Generics\bin\Debug\net8.0\Tipos_Generics.dll
+D:\repositorio\POO_.NET\Tipos_Generics\Tipos_Generics\bin\Debug\net8.0\Tipos_Generics.pdb
+D:\repositorio\POO_.NET\Tipos_Generics\Tipos_Generics\obj\Debug\net8.0\Tipos_Generics.GeneratedMSBuildEditorConfig.editorconfig
+D:\repositorio\POO_.NET\Tipos_Generics\Tipos_Generics\obj\Debug\net8.0\Tipos_Generics.AssemblyInfoInputs.cache
+D:\repositorio\POO_.NET\Tipos_Generics\Tipos_Generics\obj\Debug\net8.0\Tipos_Generics.AssemblyInfo.cs
+D:\repositorio\POO_.NET\Tipos_Generics\Tipos_Generics\obj\Debug\net8.0\Tipos_Generics.csproj.CoreCompileInputs.cache
+D:\repositorio\POO_.NET\Tipos_Generics\Tipos_Generics\obj\Debug\net8.0\Tipos_Generics.sourcelink.json
+D:\repositorio\POO_.NET\Tipos_Generics\Tipos_Generics\obj\Debug\net8.0\Tipos_Generics.dll
+D:\repositorio\POO_.NET\Tipos_Generics\Tipos_Generics\obj\Debug\net8.0\refint\Tipos_Generics.dll
+D:\repositorio\POO_.NET\Tipos_Generics\Tipos_Generics\obj\Debug\net8.0\Tipos_Generics.pdb
+D:\repositorio\POO_.NET\Tipos_Generics\Tipos_Generics\obj\Debug\net8.0\Tipos_Generics.genruntimeconfig.cache
+D:\repositorio\POO_.NET\Tipos_Generics\Tipos_Generics\obj\Debug\net8.0\ref\Tipos_Generics.dll
