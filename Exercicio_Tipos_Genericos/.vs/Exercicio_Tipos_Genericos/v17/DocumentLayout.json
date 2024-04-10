@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\repositorio\\POO_.NET\\Exercicio_Tipos_Genericos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{47FE2864-19C6-4461-9D33-2E682D84A763}|Exercicio_Tipos_Genericos\\Exercicio_Tipos_Genericos.csproj|d:\\repositorio\\poo_.net\\exercicio_tipos_genericos\\exercicio_tipos_genericos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47FE2864-19C6-4461-9D33-2E682D84A763}|Exercicio_Tipos_Genericos\\Exercicio_Tipos_Genericos.csproj|solutionrelative:exercicio_tipos_genericos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\repositorio\\POO_.NET\\Exercicio_Tipos_Genericos\\Exercicio_Tipos_Genericos\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio_Tipos_Genericos\\Program.cs",
+              "ToolTip": "D:\\repositorio\\POO_.NET\\Exercicio_Tipos_Genericos\\Exercicio_Tipos_Genericos\\Program.cs",
+              "RelativeToolTip": "Exercicio_Tipos_Genericos\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T14:41:47.107Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
