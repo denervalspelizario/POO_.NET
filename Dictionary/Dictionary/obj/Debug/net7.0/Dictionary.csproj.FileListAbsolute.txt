@@ -1,0 +1,15 @@
+D:\repositorio\POO_.NET\Dictionary\Dictionary\bin\Debug\net7.0\Dictionary.exe
+D:\repositorio\POO_.NET\Dictionary\Dictionary\bin\Debug\net7.0\Dictionary.deps.json
+D:\repositorio\POO_.NET\Dictionary\Dictionary\bin\Debug\net7.0\Dictionary.runtimeconfig.json
+D:\repositorio\POO_.NET\Dictionary\Dictionary\bin\Debug\net7.0\Dictionary.dll
+D:\repositorio\POO_.NET\Dictionary\Dictionary\bin\Debug\net7.0\Dictionary.pdb
+D:\repositorio\POO_.NET\Dictionary\Dictionary\obj\Debug\net7.0\Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+D:\repositorio\POO_.NET\Dictionary\Dictionary\obj\Debug\net7.0\Dictionary.AssemblyInfoInputs.cache
+D:\repositorio\POO_.NET\Dictionary\Dictionary\obj\Debug\net7.0\Dictionary.AssemblyInfo.cs
+D:\repositorio\POO_.NET\Dictionary\Dictionary\obj\Debug\net7.0\Dictionary.csproj.CoreCompileInputs.cache
+D:\repositorio\POO_.NET\Dictionary\Dictionary\obj\Debug\net7.0\Dictionary.sourcelink.json
+D:\repositorio\POO_.NET\Dictionary\Dictionary\obj\Debug\net7.0\Dictionary.dll
+D:\repositorio\POO_.NET\Dictionary\Dictionary\obj\Debug\net7.0\refint\Dictionary.dll
+D:\repositorio\POO_.NET\Dictionary\Dictionary\obj\Debug\net7.0\Dictionary.pdb
+D:\repositorio\POO_.NET\Dictionary\Dictionary\obj\Debug\net7.0\Dictionary.genruntimeconfig.cache
+D:\repositorio\POO_.NET\Dictionary\Dictionary\obj\Debug\net7.0\ref\Dictionary.dll

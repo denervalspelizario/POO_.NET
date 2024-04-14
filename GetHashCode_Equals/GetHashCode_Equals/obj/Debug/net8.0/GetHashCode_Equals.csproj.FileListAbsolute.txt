@@ -1,0 +1,15 @@
+D:\repositorio\POO_.NET\GetHashCode_Equals\GetHashCode_Equals\bin\Debug\net8.0\GetHashCode_Equals.exe
+D:\repositorio\POO_.NET\GetHashCode_Equals\GetHashCode_Equals\bin\Debug\net8.0\GetHashCode_Equals.deps.json
+D:\repositorio\POO_.NET\GetHashCode_Equals\GetHashCode_Equals\bin\Debug\net8.0\GetHashCode_Equals.runtimeconfig.json
+D:\repositorio\POO_.NET\GetHashCode_Equals\GetHashCode_Equals\bin\Debug\net8.0\GetHashCode_Equals.dll
+D:\repositorio\POO_.NET\GetHashCode_Equals\GetHashCode_Equals\bin\Debug\net8.0\GetHashCode_Equals.pdb
+D:\repositorio\POO_.NET\GetHashCode_Equals\GetHashCode_Equals\obj\Debug\net8.0\GetHashCode_Equals.GeneratedMSBuildEditorConfig.editorconfig
+D:\repositorio\POO_.NET\GetHashCode_Equals\GetHashCode_Equals\obj\Debug\net8.0\GetHashCode_Equals.AssemblyInfoInputs.cache
+D:\repositorio\POO_.NET\GetHashCode_Equals\GetHashCode_Equals\obj\Debug\net8.0\GetHashCode_Equals.AssemblyInfo.cs
+D:\repositorio\POO_.NET\GetHashCode_Equals\GetHashCode_Equals\obj\Debug\net8.0\GetHashCode_Equals.csproj.CoreCompileInputs.cache
+D:\repositorio\POO_.NET\GetHashCode_Equals\GetHashCode_Equals\obj\Debug\net8.0\GetHashCode_Equals.sourcelink.json
+D:\repositorio\POO_.NET\GetHashCode_Equals\GetHashCode_Equals\obj\Debug\net8.0\GetHashCode_Equals.dll
+D:\repositorio\POO_.NET\GetHashCode_Equals\GetHashCode_Equals\obj\Debug\net8.0\refint\GetHashCode_Equals.dll
+D:\repositorio\POO_.NET\GetHashCode_Equals\GetHashCode_Equals\obj\Debug\net8.0\GetHashCode_Equals.pdb
+D:\repositorio\POO_.NET\GetHashCode_Equals\GetHashCode_Equals\obj\Debug\net8.0\GetHashCode_Equals.genruntimeconfig.cache
+D:\repositorio\POO_.NET\GetHashCode_Equals\GetHashCode_Equals\obj\Debug\net8.0\ref\GetHashCode_Equals.dll
