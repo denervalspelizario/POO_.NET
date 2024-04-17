@@ -1,0 +1,15 @@
+D:\repositorio\POO_.NET\ExercicioDictionary\ExercicioDictionary\bin\Debug\net7.0\ExercicioDictionary.exe
+D:\repositorio\POO_.NET\ExercicioDictionary\ExercicioDictionary\bin\Debug\net7.0\ExercicioDictionary.deps.json
+D:\repositorio\POO_.NET\ExercicioDictionary\ExercicioDictionary\bin\Debug\net7.0\ExercicioDictionary.runtimeconfig.json
+D:\repositorio\POO_.NET\ExercicioDictionary\ExercicioDictionary\bin\Debug\net7.0\ExercicioDictionary.dll
+D:\repositorio\POO_.NET\ExercicioDictionary\ExercicioDictionary\bin\Debug\net7.0\ExercicioDictionary.pdb
+D:\repositorio\POO_.NET\ExercicioDictionary\ExercicioDictionary\obj\Debug\net7.0\ExercicioDictionary.GeneratedMSBuildEditorConfig.editorconfig
+D:\repositorio\POO_.NET\ExercicioDictionary\ExercicioDictionary\obj\Debug\net7.0\ExercicioDictionary.AssemblyInfoInputs.cache
+D:\repositorio\POO_.NET\ExercicioDictionary\ExercicioDictionary\obj\Debug\net7.0\ExercicioDictionary.AssemblyInfo.cs
+D:\repositorio\POO_.NET\ExercicioDictionary\ExercicioDictionary\obj\Debug\net7.0\ExercicioDictionary.csproj.CoreCompileInputs.cache
+D:\repositorio\POO_.NET\ExercicioDictionary\ExercicioDictionary\obj\Debug\net7.0\ExercicioDictionary.sourcelink.json
+D:\repositorio\POO_.NET\ExercicioDictionary\ExercicioDictionary\obj\Debug\net7.0\ExercicioDictionary.dll
+D:\repositorio\POO_.NET\ExercicioDictionary\ExercicioDictionary\obj\Debug\net7.0\refint\ExercicioDictionary.dll
+D:\repositorio\POO_.NET\ExercicioDictionary\ExercicioDictionary\obj\Debug\net7.0\ExercicioDictionary.pdb
+D:\repositorio\POO_.NET\ExercicioDictionary\ExercicioDictionary\obj\Debug\net7.0\ExercicioDictionary.genruntimeconfig.cache
+D:\repositorio\POO_.NET\ExercicioDictionary\ExercicioDictionary\obj\Debug\net7.0\ref\ExercicioDictionary.dll
