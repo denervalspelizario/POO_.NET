@@ -1,0 +1,15 @@
+D:\repositorio\POO_.NET\HashSet\HashSet\bin\Debug\net8.0\HashSet.exe
+D:\repositorio\POO_.NET\HashSet\HashSet\bin\Debug\net8.0\HashSet.deps.json
+D:\repositorio\POO_.NET\HashSet\HashSet\bin\Debug\net8.0\HashSet.runtimeconfig.json
+D:\repositorio\POO_.NET\HashSet\HashSet\bin\Debug\net8.0\HashSet.dll
+D:\repositorio\POO_.NET\HashSet\HashSet\bin\Debug\net8.0\HashSet.pdb
+D:\repositorio\POO_.NET\HashSet\HashSet\obj\Debug\net8.0\HashSet.GeneratedMSBuildEditorConfig.editorconfig
+D:\repositorio\POO_.NET\HashSet\HashSet\obj\Debug\net8.0\HashSet.AssemblyInfoInputs.cache
+D:\repositorio\POO_.NET\HashSet\HashSet\obj\Debug\net8.0\HashSet.AssemblyInfo.cs
+D:\repositorio\POO_.NET\HashSet\HashSet\obj\Debug\net8.0\HashSet.csproj.CoreCompileInputs.cache
+D:\repositorio\POO_.NET\HashSet\HashSet\obj\Debug\net8.0\HashSet.sourcelink.json
+D:\repositorio\POO_.NET\HashSet\HashSet\obj\Debug\net8.0\HashSet.dll
+D:\repositorio\POO_.NET\HashSet\HashSet\obj\Debug\net8.0\refint\HashSet.dll
+D:\repositorio\POO_.NET\HashSet\HashSet\obj\Debug\net8.0\HashSet.pdb
+D:\repositorio\POO_.NET\HashSet\HashSet\obj\Debug\net8.0\HashSet.genruntimeconfig.cache
+D:\repositorio\POO_.NET\HashSet\HashSet\obj\Debug\net8.0\ref\HashSet.dll
