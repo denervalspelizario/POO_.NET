@@ -1,0 +1,15 @@
+D:\repositorio\POO_.NET\Stack\Stack\bin\Debug\net8.0\Stack.exe
+D:\repositorio\POO_.NET\Stack\Stack\bin\Debug\net8.0\Stack.deps.json
+D:\repositorio\POO_.NET\Stack\Stack\bin\Debug\net8.0\Stack.runtimeconfig.json
+D:\repositorio\POO_.NET\Stack\Stack\bin\Debug\net8.0\Stack.dll
+D:\repositorio\POO_.NET\Stack\Stack\bin\Debug\net8.0\Stack.pdb
+D:\repositorio\POO_.NET\Stack\Stack\obj\Debug\net8.0\Stack.GeneratedMSBuildEditorConfig.editorconfig
+D:\repositorio\POO_.NET\Stack\Stack\obj\Debug\net8.0\Stack.AssemblyInfoInputs.cache
+D:\repositorio\POO_.NET\Stack\Stack\obj\Debug\net8.0\Stack.AssemblyInfo.cs
+D:\repositorio\POO_.NET\Stack\Stack\obj\Debug\net8.0\Stack.csproj.CoreCompileInputs.cache
+D:\repositorio\POO_.NET\Stack\Stack\obj\Debug\net8.0\Stack.sourcelink.json
+D:\repositorio\POO_.NET\Stack\Stack\obj\Debug\net8.0\Stack.dll
+D:\repositorio\POO_.NET\Stack\Stack\obj\Debug\net8.0\refint\Stack.dll
+D:\repositorio\POO_.NET\Stack\Stack\obj\Debug\net8.0\Stack.pdb
+D:\repositorio\POO_.NET\Stack\Stack\obj\Debug\net8.0\Stack.genruntimeconfig.cache
+D:\repositorio\POO_.NET\Stack\Stack\obj\Debug\net8.0\ref\Stack.dll

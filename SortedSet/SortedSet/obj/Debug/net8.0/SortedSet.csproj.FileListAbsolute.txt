@@ -1,0 +1,15 @@
+D:\repositorio\POO_.NET\SortedSet\SortedSet\bin\Debug\net8.0\SortedSet.exe
+D:\repositorio\POO_.NET\SortedSet\SortedSet\bin\Debug\net8.0\SortedSet.deps.json
+D:\repositorio\POO_.NET\SortedSet\SortedSet\bin\Debug\net8.0\SortedSet.runtimeconfig.json
+D:\repositorio\POO_.NET\SortedSet\SortedSet\bin\Debug\net8.0\SortedSet.dll
+D:\repositorio\POO_.NET\SortedSet\SortedSet\bin\Debug\net8.0\SortedSet.pdb
+D:\repositorio\POO_.NET\SortedSet\SortedSet\obj\Debug\net8.0\SortedSet.GeneratedMSBuildEditorConfig.editorconfig
+D:\repositorio\POO_.NET\SortedSet\SortedSet\obj\Debug\net8.0\SortedSet.AssemblyInfoInputs.cache
+D:\repositorio\POO_.NET\SortedSet\SortedSet\obj\Debug\net8.0\SortedSet.AssemblyInfo.cs
+D:\repositorio\POO_.NET\SortedSet\SortedSet\obj\Debug\net8.0\SortedSet.csproj.CoreCompileInputs.cache
+D:\repositorio\POO_.NET\SortedSet\SortedSet\obj\Debug\net8.0\SortedSet.sourcelink.json
+D:\repositorio\POO_.NET\SortedSet\SortedSet\obj\Debug\net8.0\SortedSet.dll
+D:\repositorio\POO_.NET\SortedSet\SortedSet\obj\Debug\net8.0\refint\SortedSet.dll
+D:\repositorio\POO_.NET\SortedSet\SortedSet\obj\Debug\net8.0\SortedSet.pdb
+D:\repositorio\POO_.NET\SortedSet\SortedSet\obj\Debug\net8.0\SortedSet.genruntimeconfig.cache
+D:\repositorio\POO_.NET\SortedSet\SortedSet\obj\Debug\net8.0\ref\SortedSet.dll
