@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\repositorio\\POO_.NET\\ReadyOnlyCollection\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9A9E8901-C43C-4452-A204-FDCB4E951D2D}|ReadyOnlyCollection\\ReadyOnlyCollection.csproj|d:\\repositorio\\poo_.net\\readyonlycollection\\readyonlycollection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A9E8901-C43C-4452-A204-FDCB4E951D2D}|ReadyOnlyCollection\\ReadyOnlyCollection.csproj|solutionrelative:readyonlycollection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\repositorio\\POO_.NET\\ReadyOnlyCollection\\ReadyOnlyCollection\\Program.cs",
+              "RelativeDocumentMoniker": "ReadyOnlyCollection\\Program.cs",
+              "ToolTip": "D:\\repositorio\\POO_.NET\\ReadyOnlyCollection\\ReadyOnlyCollection\\Program.cs",
+              "RelativeToolTip": "ReadyOnlyCollection\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T12:06:24.15Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

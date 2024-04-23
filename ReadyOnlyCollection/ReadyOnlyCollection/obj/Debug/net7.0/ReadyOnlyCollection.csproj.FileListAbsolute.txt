@@ -1,0 +1,15 @@
+D:\repositorio\POO_.NET\ReadyOnlyCollection\ReadyOnlyCollection\bin\Debug\net7.0\ReadyOnlyCollection.exe
+D:\repositorio\POO_.NET\ReadyOnlyCollection\ReadyOnlyCollection\bin\Debug\net7.0\ReadyOnlyCollection.deps.json
+D:\repositorio\POO_.NET\ReadyOnlyCollection\ReadyOnlyCollection\bin\Debug\net7.0\ReadyOnlyCollection.runtimeconfig.json
+D:\repositorio\POO_.NET\ReadyOnlyCollection\ReadyOnlyCollection\bin\Debug\net7.0\ReadyOnlyCollection.dll
+D:\repositorio\POO_.NET\ReadyOnlyCollection\ReadyOnlyCollection\bin\Debug\net7.0\ReadyOnlyCollection.pdb
+D:\repositorio\POO_.NET\ReadyOnlyCollection\ReadyOnlyCollection\obj\Debug\net7.0\ReadyOnlyCollection.GeneratedMSBuildEditorConfig.editorconfig
+D:\repositorio\POO_.NET\ReadyOnlyCollection\ReadyOnlyCollection\obj\Debug\net7.0\ReadyOnlyCollection.AssemblyInfoInputs.cache
+D:\repositorio\POO_.NET\ReadyOnlyCollection\ReadyOnlyCollection\obj\Debug\net7.0\ReadyOnlyCollection.AssemblyInfo.cs
+D:\repositorio\POO_.NET\ReadyOnlyCollection\ReadyOnlyCollection\obj\Debug\net7.0\ReadyOnlyCollection.csproj.CoreCompileInputs.cache
+D:\repositorio\POO_.NET\ReadyOnlyCollection\ReadyOnlyCollection\obj\Debug\net7.0\ReadyOnlyCollection.sourcelink.json
+D:\repositorio\POO_.NET\ReadyOnlyCollection\ReadyOnlyCollection\obj\Debug\net7.0\ReadyOnlyCollection.dll
+D:\repositorio\POO_.NET\ReadyOnlyCollection\ReadyOnlyCollection\obj\Debug\net7.0\refint\ReadyOnlyCollection.dll
+D:\repositorio\POO_.NET\ReadyOnlyCollection\ReadyOnlyCollection\obj\Debug\net7.0\ReadyOnlyCollection.pdb
+D:\repositorio\POO_.NET\ReadyOnlyCollection\ReadyOnlyCollection\obj\Debug\net7.0\ReadyOnlyCollection.genruntimeconfig.cache
+D:\repositorio\POO_.NET\ReadyOnlyCollection\ReadyOnlyCollection\obj\Debug\net7.0\ref\ReadyOnlyCollection.dll
